@@ -1,7 +1,7 @@
 # 👋 Greetings! I'm Ahmed Sayed 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29E6A7&center=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Innovator;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29E6A7&center=true&width=600&lines=Full+Stack+Developer;Back-End+Engineering;Open+Source+Enthusiast;Tech+Innovator;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 ## 🌟 About Me
