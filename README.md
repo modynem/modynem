@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-![Header Image](https://github.com/your-username/your-repo/raw/main/header-image.png)
+![Header Image](https://github.com/modynem/your-repo/raw/main/header-image.png)
 
 ## About Me 🌟
 
