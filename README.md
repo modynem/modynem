@@ -7,7 +7,7 @@ Hello! I'm **Ahmed Sayed**, a passionate developer specializing in [coding, e.g.
 - 🌍 Based in [Location].
 - 🌱 Currently learning [technology or skill].
 - 💼 Open to collaboration on exciting projects.
-- 📫 Reach me: [ahmedsayedbusiness0@gmail.com](mailto:ahmedsayedbusiness0@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile).
+- 📫 Reach me: [ahmedsayedbusiness0@gmail.com](mailto:ahmedsayedbusiness0@gmail.com) | [Discord](https://discordlookup.com/user/831591201114292305).
 
 ---
 
