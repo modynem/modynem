@@ -32,8 +32,8 @@ Hello! I'm **Ahmed Sayed**, a passionate developer specializing in [coding, e.g.
 ## 🚀 Featured Projects
 
 ### [Project 1: Your Project Name](https://github.com/modynem/Webhook-Library)
-- **Description:** Briefly describe your project.
-- **Tech Used:** Python, Flask, etc.
+- **Description:** Discord library made by Luau.
+- **Tech Used:** Luau.
 
 ---
 
