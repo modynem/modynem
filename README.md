@@ -86,7 +86,7 @@ Hi there! I'm a passionate developer with a love for creating innovative solutio
 
 ## 🎵 Currently Vibing To
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api/spotify)](https://open.spotify.com/user/username)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31ksmxbxfcutoao3tis2wkwuozfe)
 
 ---
 
