@@ -2,7 +2,7 @@
 
 ## About Me 🌟
 
-Hello! I'm **Ahmed Sayed**, a passionate developer specializing in [your specialties, e.g., Web Development, Machine Learning, etc.].
+Hello! I'm **Ahmed Sayed**, a passionate developer specializing in [coding, e.g., Web Development, Back-End Engineering, etc.].
 
 - 🌍 Based in [Location].
 - 🌱 Currently learning [technology or skill].
