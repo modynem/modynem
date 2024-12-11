@@ -53,7 +53,3 @@ I'm always looking to grow and work on exciting projects. Feel free to reach out
 
 - [Portfolio](https://ahmedsayedv2.vercel.app/)
 - [Discord](https://discordlookup.com/user/831591201114292305)
-
----
-
-*Generated with ❤️ using markdown.*
