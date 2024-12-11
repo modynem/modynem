@@ -1,55 +1,97 @@
-# Welcome to My GitHub Profile 👋
+# 👋 Greetings! I'm Ahmed Sayed 🚀
 
-## About Me 🌟
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29E6A7&center=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Innovator;Lifelong+Learner" alt="Typing SVG" />
+</div>
 
-Hello! I'm **Ahmed Sayed**, a passionate developer specializing in [coding, e.g., Web Development, Back-End Engineering, etc.].
+## 🌟 About Me
 
-- 🌍 Based in [Location].
-- 🌱 Currently learning [technology or skill].
-- 💼 Open to collaboration on exciting projects.
-- 📫 Reach me: [ahmedsayedbusiness0@gmail.com](mailto:ahmedsayedbusiness0@gmail.com) | [Discord](https://discordlookup.com/user/831591201114292305).
+<img align="right" width="300" src="https://api.daily.dev/devcards/v2/Uf3nCYRmtaM5xVjDuSwax.png?r=fgd" alt="Ahmed Sayed's Dev Card"/>
 
----
+Hi there! I'm a passionate developer with a love for creating innovative solutions. My journey in tech is driven by curiosity, creativity, and a commitment to continuous learning.
 
-## 🔧 Tech Stack
+- 🌍 **Location:** Global Innovator 🌐
+- 💻 **Specialization:** Full Stack Development & Back-End Engineering
+- 🌱 **Currently Learning:** Machine Learning
+- 💡 **Interests:** Open Source, Cloud Computing
 
-**Languages:**  
-![Java](https://img.shields.io/badge/java-%2523F7DF1E.svg?logo=java&logoColor=black)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/typescript-%2523F7DF1E.svg?logo=typescript&logoColor=black)  
-![Luau](https://img.shields.io/badge/lua-%2523339933.svg?logo=lua&logoColor=white)  
+## 🔧 Technology Arsenal
 
-**Frameworks and Libraries:**  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)  
-![Spring boot](https://img.shields.io/badge/springboot-%2523339933.svg?logo=springboot&logoColor=white)  
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)  
+### 💻 Languages & Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,lua,react,nodejs,spring,docker,git" />
+</div>
 
----
+### 🛠️ Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,discord,vscode,figma,linux,aws" />
+</div>
 
 ## 🚀 Featured Projects
 
-### [Project 1: Your Project Name](https://github.com/modynem/Webhook-Library)
-- **Description:** Discord library.
-- **Tech Used:** Luau.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🤖 Webhook Library</h3>
+        <p align="center">
+          <a href="https://github.com/modynem/Webhook-Library" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=modynem&repo=Webhook-Library&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="Webhook Library"/>
+          </a>
+        </p>
+        <p align="center">
+          Advanced Discord library built with Luau, enabling seamless webhook integrations
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌐 Personal Portfolio</h3>
+        <p align="center">
+          <a href="https://ahmedsayedv2.vercel.app/" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=modynem&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="Portfolio Website"/>
+          </a>
+        </p>
+        <p align="center">
+          Modern, responsive portfolio showcasing skills and projects
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=modynem&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=modynem&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=modynem&theme=radical" alt="GitHub Streak" width="50%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modynem&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://ahmedsayedv2.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:ahmedsayedbusiness0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discordlookup.com/user/831591201114292305" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+
+## 🎵 Currently Vibing To
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api/spotify)](https://open.spotify.com/user/username)
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=modynem&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</div>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=modynem&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=modynem&layout=compact&theme=radical)
-
----
-
-## 🛠️ Let's Collaborate!
-
-I'm always looking to grow and work on exciting projects. Feel free to reach out or connect!
-
-### 🌐 Find Me Online:
-
-- [Portfolio](https://ahmedsayedv2.vercel.app/)
-- [Discord](https://discordlookup.com/user/831591201114292305)
+**Thanks for stopping by! 👀 Let's create something amazing together! 🚀**
