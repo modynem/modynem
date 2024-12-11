@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile 👋
 
-![Header Image](https://github.com/modynem/your-repo/raw/main/header-image.png)
-
 ## About Me 🌟
 
 Hello! I'm **Ahmed Sayed**, a passionate developer specializing in [your specialties, e.g., Web Development, Machine Learning, etc.].
