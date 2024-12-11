@@ -32,7 +32,7 @@ Hello! I'm **Ahmed Sayed**, a passionate developer specializing in [coding, e.g.
 ## 🚀 Featured Projects
 
 ### [Project 1: Your Project Name](https://github.com/modynem/Webhook-Library)
-- **Description:** Discord library made by Luau.
+- **Description:** Discord library.
 - **Tech Used:** Luau.
 
 ---
