@@ -1,7 +1,7 @@
 # 👋 Greetings! I'm Ahmed Sayed 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29E6A7&center=true&width=600&lines=Full+Stack+Developer;Back-End+Engineering;Open+Source+Enthusiast;Tech+Innovator;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29E6A7&center=true&width=600&lines=Full+Stack+Developer;Back-End+Engineer;Open+Source+Enthusiast;Tech+Innovator;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 ## 🌟 About Me
@@ -44,16 +44,16 @@ Hi there! I'm a passionate developer with a love for creating innovative solutio
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">🌐 Personal Portfolio</h3>
-        <p align="center">
-          <a href="https://ahmedsayedv2.vercel.app/" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=modynem&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="Portfolio Website"/>
-          </a>
-        </p>
-        <p align="center">
-          Modern, responsive portfolio showcasing skills and projects
-        </p>
-      </td>
+  <h3 align="center">🌐 Personal Portfolio</h3>
+  <p align="center">
+    <a href="https://ahmedsayedv2.vercel.app/" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=modynem&repo=modynem.github.io&theme=radical" alt="Portfolio Website"/>
+    </a>
+  </p>
+  <p align="center">
+    Modern, responsive portfolio showcasing skills and projects
+  </p>
+</td>
     </tr>
   </table>
 </div>
@@ -64,9 +64,7 @@ Hi there! I'm a passionate developer with a love for creating innovative solutio
   <img src="https://github-profile-trophy.vercel.app/?username=modynem&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   
   <img src="https://github-readme-stats.vercel.app/api?username=modynem&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=modynem&theme=radical" alt="GitHub Streak" width="50%"/>
-  
+    
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modynem&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </div>
 
